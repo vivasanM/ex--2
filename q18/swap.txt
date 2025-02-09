@@ -1,0 +1,2 @@
+enter the value of a and b:10 20
+AFTER SWAPPING a=20,b=10
