@@ -1,0 +1,3 @@
+enter the values:10 20 30
+C-is largest
+A-is smallest
