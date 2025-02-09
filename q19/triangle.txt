@@ -1,0 +1,2 @@
+Enter the values:10 10 10
+EQUILATERAL TRIANGLE
