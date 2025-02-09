@@ -1,0 +1,2 @@
+Enter a character:A
+VOWEL
