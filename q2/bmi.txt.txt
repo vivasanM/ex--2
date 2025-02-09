@@ -1,0 +1,4 @@
+enter  your weight=50
+enter your height in meter=1
+BMI is 20.0
+normal weight
