@@ -1,0 +1,2 @@
+enter th celsius temperature:30
+the farenheitt degree =86.00
