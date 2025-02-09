@@ -1,0 +1,3 @@
+enter the price amount:2000
+your discount is 5 percent
+the price after discount is 1900
